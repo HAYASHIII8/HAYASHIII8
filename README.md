@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m building my programming and software engineering skills through small projects. I’m interested in AI agents, retrieval-augmented generation, human–computer interaction, and interactive data visualization.
+
+### What I’m learning
+
+- Python, Git, and testing through small exercises I implement independently.
+- How to prototype AI-assisted applications and evaluate their outputs on concrete examples.
+- How to communicate findings with interactive charts and reproducible analysis.
+
+In project notes, I aim to document what I implemented independently, where I used AI assistance, and how I verified the result.
